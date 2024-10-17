@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div.test{
+    width: 80%;
+    margin: 40px auto;
+    background-color: chocolate;
+    height: 250px;
+    border-radius: 25px;
+}
+p.test{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
