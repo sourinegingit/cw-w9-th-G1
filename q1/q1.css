@@ -1,0 +1,25 @@
+html,body,*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1rem;
+}
+.innerDiv , .middleDiv ,.outerDiv{
+    border: 1px solid black;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+.innerDiv{
+    background-color: aqua;
+}
+.outerDiv{
+    background-color: rgb(161, 109, 209);
+}
+.middleDiv{
+    background-color: rgb(145, 228, 62);
+}
